@@ -1,0 +1,17 @@
+{
+  "name": "assignment1",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Surya Praksh <singh_suryaprakash@yahoo.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
